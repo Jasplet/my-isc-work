@@ -4,4 +4,4 @@
 
 echo 'Feeling sleepy'
 sleep $X
-echo 'Wake Up!'
+echo 'Wake Up  Now!'

@@ -1,6 +1,6 @@
 #! /bin/bash -f
 
-X=10
+
 
 echo 'Feeling sleepy'
 sleep $X
