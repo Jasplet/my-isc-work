@@ -32,6 +32,6 @@ print e
 print 'You can set a mask based on a condition which compares to another array!\nFirst lets mask values in d which are greater than e'
 d2 = MA.masked_where(d > e, d)
 print d2
-print 'Lets see if we can masked array based on a condition which is not directly related to it!!'
+print 'Lets see if we can masked array based on a condition which is not directly related to it!'
 d3 = MA.masked_where(e > 13, d)
 print d3 
