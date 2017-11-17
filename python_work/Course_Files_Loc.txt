@@ -1,0 +1,1 @@
+NCAS version of all the course files can be found in https://github.com/ncasuk/ncas-isc
