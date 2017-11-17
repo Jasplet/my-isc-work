@@ -32,7 +32,7 @@ import math
 #r = np.arange(0,2,0.01 # r for sprial plot
 #theta = 2*np.pi * r # theta for spiral
 theta = np.arange(0,2*np.pi,(np.pi/50))
-r = np.cos(3*theta)
+r = 2 -  np.cos(9*theta)
 ax = plt.subplot(111,projection='polar')
 ax.plot(theta,r)
 plt.show()
